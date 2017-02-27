@@ -8,3 +8,6 @@ pcb/megashield_svn_1.2/Platinenbilder/Thumbs.db
 *.bak
 code/tests/DUE_TESTS_ARDUMOWER/desktop.ini
 code/tests/DUE_TESTS_ARDUMOWER/desktop.ini
+
+#Intelli Jea
+.idea/**
